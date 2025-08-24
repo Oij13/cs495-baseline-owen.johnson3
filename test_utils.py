@@ -4,7 +4,7 @@ from utils import first_unique_char
 class TestStringMethods(unittest.TestCase):
 
     def test_single_unique(self):
-        self.assertEqual(first_unique_char("ssffffe"),6)
+        self.assertEqual(first_unique_char("ssffffef"),6)
 
     def test_no_unique(self):
         self.assertEqual(first_unique_char("aabbdd"),-1)
