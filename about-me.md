@@ -1,3 +1,4 @@
+# Concentration: Web and Mobile App Development
 - Programming languages: Python-cs120, Java-cs121/cs222, a little C-cs230, C#-Internship at Formula Boats
 
 - As of recently, I code mostly for my internship in .NET Blazor. I worked on two main projects during my time there this summer. I worked on the rebuilding of a sales quote website in Blazor and an internal site, adding any miscellaneous tools that anyone in the company requested. I built a production schedule to actively pull upcoming boats into a printable table using the JS plugin DataTables. This tool also had the ability to select what department you wanted to see, altering the presented boats based on op seq.
